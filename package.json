@@ -1,0 +1,19 @@
+{
+  "name": "taskapp",
+  "version": "0.1.0",
+  "description": "task app made using the MEAN stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "cookie-parser": "^1.4.0",
+    "debug": "^2.2.0",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "morgan": "^1.6.1"
+  }
+}
